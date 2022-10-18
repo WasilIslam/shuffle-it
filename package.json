@@ -1,0 +1,17 @@
+{
+  "name": "shuffle-it",
+  "version": "1.0.0",
+  "description": "encrypts/decrypts text by shuffling words using seed/password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cipher",
+    "shuffle",
+    "encrypt",
+    "sentence encryption"
+  ],
+  "author": "Wasil Islam",
+  "license": "ISC"
+}
